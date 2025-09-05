@@ -1,0 +1,4 @@
+# Checksums for Powers of Tau parameters (BN254)
+# Generated on 2025-09-05
+# Algorithm: SHA256
+0e57305e106ed5a08512df29b34a284197dd0668f78db6c29d949de4fc666ced  bn254_pow22.ptau
